@@ -6,7 +6,12 @@
 ```
 npm install
 ```
-open a modern browser and type
+then
+```
+node index.js
+```
+
+finally open a modern browser and type
 ```
 http://localhost:3000/
 ```
